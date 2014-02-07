@@ -20,7 +20,19 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     intVariables: []
-    boolVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: Interrupt?
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: Listen
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
