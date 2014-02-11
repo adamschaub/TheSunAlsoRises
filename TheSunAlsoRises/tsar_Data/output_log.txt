@@ -23,7 +23,8 @@ Platform assembly: C:\xampp\htdocs\TheSunAlsoRises\TheSunAlsoRises\tsar_Data\Man
 Loading C:\xampp\htdocs\TheSunAlsoRises\TheSunAlsoRises\tsar_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
 Platform assembly: C:\xampp\htdocs\TheSunAlsoRises\TheSunAlsoRises\tsar_Data\Managed\PlayMaker.dll (this message is harmless)
 Loading C:\xampp\htdocs\TheSunAlsoRises\TheSunAlsoRises\tsar_Data\Managed\PlayMaker.dll into Unity Child Domain
-- Completed reload, in  0.047 seconds
+- Completed reload, in  0.057 seconds
 desktop: 1920x1200 59Hz; virtual: 3840x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: C:\xampp\htdocs\TheSunAlsoRises\TheSunAlsoRises\tsar_Data\Managed\System.dll (this message is harmless)
